@@ -2,7 +2,7 @@
 
 A small Transformer that invents new names. I built and trained it in the Transformers workshop of the course *Artificial Intelligence and Machine Learning*.
 
-**Try it:** PASTE-YOUR-APP-LINK-HERE
+**Try it:** [PASTE-YOUR-APP-LINK-HERE](https://vytaute-names.streamlit.app/)
 
 ## What it does
 
